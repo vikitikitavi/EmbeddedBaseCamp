@@ -1,0 +1,8 @@
+#eclipse specific
+.metadata
+.settings
+Debug
+*launch
+
+#stm32CubeIDE
+.mxproject
